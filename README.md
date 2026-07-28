@@ -37,6 +37,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Image & Art
 
+- [GPT Image 2](https://gptimage2.asia/) - AI image generator and editor for marketing visuals, ecommerce assets, social posts, and branded content.
+  - **Tags**: `AI` `Image` `Text-to-Image` `Image Editing` `Marketing`
+  - **Pricing**: Free to try
+
 - [AI Image Generator](https://www.aiimagegenerator.org) - A free AI-powered text-to-image and image-to-image art generator.
   - **Tags**: `Free` `AI` `Image` `Text-to-Image` `Image-to-Image`
   - **Pricing**: Free
